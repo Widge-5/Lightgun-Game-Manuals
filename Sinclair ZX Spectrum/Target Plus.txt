@@ -1,0 +1,95 @@
+MENU
+
+Desde el principio puedes seleccionar cualquiera de las dos partes que tiene el juego por medio del disparo. También si lo deseáis podéis jugar dos personas simultáneamente aunque sólo en la segunda parte.
+
+
+PARTES DEL JUEGO
+
+PRIMERA PARTE:
+Tiro al plato y a la diana.
+
+Surgirán platos hasta un número total de 12, de los cuales habrás de acertar 6 si quieres pasar a las dianas. Dispones de 3 disparos para cada dos platos por lo que tu efectividad ha de producirse de una forma regular, Una vez hayas destruido 6 o más platos comenzarán a aparecer dianas hasta un total de 7. Tu objetivo es alcanzar al menos a 3 de ellas. Aquí solo dispondrás de un disparo para cada diana que surja. Si consigues tu objetivo final, la fase se reinicia aunque el grado de dificultad aumentará.
+
+SEGUNDA PARTE
+La defensa del asado.
+
+Encontrarás en la pantalla un jugoso pollo que será atacado sin piedad por arañas que, silenciosas, bajan por su tela. También por voraces avispas que surgen de todas partes. Tu misión consiste en defender el ave de tan brutales ataques con tu superpistola.
+
+Cuando un insecto se pose en el pollo absorberá su sustancia con increíble voracidad.
+
+El juego habrá terminado cuando el animal haya sido completamente devorado y no tengas ante ti más que un manojo de huesos.
+
+Cada vez los insectos serán más numerosos y más voraces, no dejes que sacien su apetito a tu costa.
+
+Si optáis por jugar dos a la vez, vuestra misión será la misma aunque podréis repartiros el trabajo. Vigilad bien y no perdáis de vista a la temible tarántula que, aunque os dará más puntos, devorará el pollo con mucha mayor velocidad.
+
+Recuerda que las dos partes son independientes, NO es necesario que termines la primera para acceder a la segunda.
+
+
+LECTURA DEL MARCADOR
+
+Durante la primera parte en la zona izquierda del marcador podrás encontrar los puntos que llevas. Debajo de esto el número de platos que van saliendo. En la zona de la derecha aparecerá el número de platos que vas acertando debajo de lo cual verás las dianas que aparecen (en blanco) y las que consigues derribar (en rojo).
+
+Durante la fase de las dianas el indicador de número de platos mostrará el tiempo que tardas en hacer blanco: Cuanto menos tiempo más puntos. En el centro podrás ver un indicador digital de la trayectoria del plato.
+
+Durante la segunda parte en el marcador simplemente verás los puntos que vas consiguiendo y si sois dos jugadores tendréis un marcador para cada uno.
+
+Si un insecto recibe dos disparos simultáneamente el ordenador asignará los puntos a ambos jugadores.
+
+
+ENEMIGOS
+
+Como podrás suponer en la primera parte tus enemigos, si se les puede considerar como tales, son inocentes platos y dianas. Pero tus enemigos de la segunda parte ya no son tan inocentes:
+1. CHIKENN FORDDINER, que así se llama la temible avispa que pulula incesantemente cerca de nuestra preciada cena. Su voracidad es desconocida. Si quieres comprobarlo déjala pasar, aunque sinceramente no es recomendable.
+2. ITING ESPAIDER es el nombre de la tarántula que una y otra vez verás acechar nuestro pollo. No le des el más mínimo respiro, ya que en sólo unos segundos será capaz de comerse el pollo entero. Nunca la infravalores: es si cabe, más brutal que nuestra amiga Chikenn.
+
+
+GARANTIA
+
+Dinamic garantiza todos sus productos de cualquier fallo o defecto de fabricación, grabación o carga. La garantía finaliza en la fecha que el producto quede descatalogado y se agoten existencias. Este programa está fabricado de acuerdo a los más elevados niveles de calidad técnica. Por favor, lea con atención las instrucciones de carga. Si por algún motivo tiene dificultad en hacer funcionar el programa, y cree que el producto es defectuoso, devuélvalo directamente a:
+DINAMIC PZA. DE ESPAÑA, 18    TORRE DE MADRID. 29-1
+28008 MADRID
+
+A vuelta de correo le enviaremos una nueva copia totalmente gratis.
+
+
+EQUIPO DE DISEÑO
+
+PROGRAMA:	Pedro Sudón
+GRAFICOS:	J. Cubedo y J. Azpiri
+MUSICA:		J. Cubedo
+ILUSTRACION:	veintinueve uno
+DIRIGIDO POR:	Víctor Ruiz
+
+
+NOTA. Ajusta los mandos de contraste y brillo de tu televisor o monitor hasta que el funcionamiento de tu pistola sea óptimo. (El negro del fondo de la pantalla debe ser negro absolutamente. El resto de los colores brillantes). La luz ambiental no debe reflejarse sobre la pantalla.
+
+
+PROGRAMADORES
+
+¿Has hecho algún programa? ¿Eres diseñador gráfico? Animate, envía tu trabajo en una cassette y recibirás nuestra respuesta.
+
+
+COPYRIGHT 1987 DINAMIC
+
+PROHIBIDA LA REPRODUCCION, RADIODIFUSION, TRANSMISION, ALQUILER O PRESTAMO DE ESTE PROGRAMA SIN LA AUTORIZACION EXPRESA ESCRITA DE MICRODIGITAL SOFT S.A.
+
+DINAMIC ES UNA MARCA REGISTRADA POR MICRODIGITAL SOFT, S.A.
+
+
+INSTRUCCIONES DE CARGA
+
+SPECTRUM DISCO
+1.  Conecta el SPECTRUM + 3.
+2.  Inserta el disco.
+3.  Selecciona la opción cargador.
+4.  Pulsa ENTER.
+5.  Pulsa el número del programa que quieres cargar.
+6.  El programa se cargará automáticamente.
+
+AMSTRAD DISCO
+1.  Conectar el AMSTRAD.
+2.  Insertar el disco.
+3.  Teclear CPM y pulsa ENTER.
+4.  Pulsa el número del programa que quieres cargar.
+5.  El programa se cargará automáticamente.

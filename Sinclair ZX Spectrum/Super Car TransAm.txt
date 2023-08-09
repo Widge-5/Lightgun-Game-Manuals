@@ -1,0 +1,51 @@
+===================
+American Turbo-King
+===================
+Document created by rstuart@ukonline.co.uk on 2nd Jan 00 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+American Turbo-King - Virgin Mastertronic
+-------------------
+for MAGNUM LIGHTPHASER also keyboard or joystick compatible.
+
+Action! Action! Action!
+A fantastic race across America pursued by crazy competitors who'll stop at
+nothing to beat you to New York and the prize that awaits you. Be merciless -
+its the only way to survive!
+
+Side A: Magnum Light Phasor Gun
+Side B: Joystick/Keyboard
+
+Loading Instructions
+--------------------
+128K/+2/ - Insert cassette and press ENTER.
+48K      - Type LOAD"" and press ENTER.
+
+Gameplay
+--------
+When the game has loaded press FIRE to play.
+The object of the game is to drive your turbocharged, armour plated supercar
+across America. There are 5 stages to your journey: CALIFORNIA BEACH RACE,
+ROCKY MOUNTAIN PASS, GRAND CANYON JUMP, GREAT LAKES STAGE, NEW YORK CITY IN
+SIGHT. Steer through rough terrain and drive over ramps to jump over rocks
+and other obstacles but you must avoid driving through water as your car will
+become waterlogged and unable to continue. During the game hostile cars,
+helicopters and planes will try to bomb you so use your lightgun, or press
+FIRE, to shoot them. You have 3 lives for each of the five stages. Press CAPS
+SHIFT and P together to pause and restart the game.
+
+LIGHTGUN CONTROLS - control your car by shooting the left and right icons
+to steer and by shooting your car to switch from forwards to reverse gear.
+
+JOYSTICK/KEYBOARD CONTROLS - the game will work automatically with Sinclair
+and Kempston joystick interfaces and with the Keyboard with the following
+keys:
+O - Left   P - Right   Q - Accelerate
+A - Brake Or Reverse   SPACE - Fire
+
+Warning: All Rights Of The Producer And Of The Owner Of The Work Reproduced
+Reserved. This Program Is Sold According To Virgin Mastertronic Terms Of
+Trade And Conditions Of Sale.
+
+Virgin Mastertronic Limited 1989
+Made in Great Britain
