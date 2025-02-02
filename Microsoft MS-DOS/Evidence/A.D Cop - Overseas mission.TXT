@@ -1,0 +1,29 @@
+The game support following devices as its operating interface:
+PC-based light gun "CyberGun", mouse, joystick, and keyboard.
+Note that light gun must be purchased additional.  Just like the
+mouse, light gun is just one of the input devices supported by
+"A.D COP".  If you want to purchase light gun, please contact
+local dealers.
+
+This game is the bundled version of "Overseas Mission",
+and it is bundled with "CyberGun" only.  All rights about this game
+are reserved.  It is not a shareware version, please do not
+distribute the software through the network or other media.
+This version include fully three major missions, which is consisted
+of three minor levels.
+
+There is another product devired from "Overseas Mission",
+which is named "A.D COP".  The game is only released as commerical
+verssion.  "A.D COP" includes totally different levels and bosses,
+and lots of great animations.
+
+If you have any suggestion or idea to cooperate with us, please
+let us know.
+
+Electronic Music and Animated Graphics CO.,LTD.
+5F,No.62 Yeong-Li Rd.Yeong-Her
+Taipei, Taiwan, R.O.C.
+TEL/886-02-9238664
+FAX/886-02-9238653
+E-Mail:emag@ms6.hinet.net
+

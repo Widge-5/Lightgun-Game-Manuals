@@ -1,0 +1,28 @@
+The game support following devices as its operating interface:
+PC-based light gun "PC GUN", mouse, joystick, and keyboard.
+Note that light gun must be purchased additional.  Just like the
+mouse, light gun is one of the input devices supported by
+"A.D COP".  If you want to purchase light gun, please contact
+local dealers.
+
+This game is the commerical version of "A.D COP", it is not
+shareware version.  Please do not distribute the software through
+the network or other media.  Commerical version include three
+major missions, which is consisted of three minor levels.
+
+There is another product devired from "A.D COP", which is named
+"A.D COP Overseas Mission".  The game is only released for bundle
+purpose now.  You can obtain it when you purchase a hardware device
+(like "PC-GUN") buddled with "A.D COP Overseas Mission".
+
+If you have any suggestion or idea to cooperate with us,  we are
+very willing to know that.  Surely, if there is any question about
+the product, we also like to know, so please contact us.
+
+Electronic Music and Animated Graphics CO.,LTD.
+5F,No.62 Yeong-Li Rd.Yeong-Her
+Taipei, Taiwan, R.O.C.
+TEL/886-02-9238664
+FAX/886-02-9238653
+E-Mail:emag@ms6.hinet.net
+
